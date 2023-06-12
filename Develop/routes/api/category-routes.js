@@ -35,7 +35,7 @@ router.get('/:id', async (req, res) => {
 });
 
 //for this function we dont need enay parameter, since this function creates a new category
-//this route sends a POST rewuest to /api/categories 
+//this route sends a POST request to /api/categories 
 router.post('/', async (req, res) => {
   try {
     const categoryData = await Category.create(req. body); 
