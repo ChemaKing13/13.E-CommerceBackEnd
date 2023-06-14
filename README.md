@@ -5,6 +5,7 @@ This is the back-end component of an e-commerce application. It provides the ser
 
 ## Table of Contents
 
+- [Built With](#built-with)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Routes](#api-routes)
@@ -12,7 +13,7 @@ This is the back-end component of an e-commerce application. It provides the ser
 - [License](#license)
 - [Demo](#demo)
 
-## Badges
+## Built With: 
 
 * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 * [![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-green.svg)](https://nodejs.org/)
