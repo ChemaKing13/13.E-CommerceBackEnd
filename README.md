@@ -12,6 +12,16 @@ This is the back-end component of an e-commerce application. It provides the ser
 - [License](#license)
 - [Demo](#demo)
 
+## Badges
+
+* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+* [![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-green.svg)](https://nodejs.org/)
+* [![Express](https://img.shields.io/badge/Express-v4.17.1-blue.svg)](https://expressjs.com/)
+* [![Sequelize](https://img.shields.io/badge/Sequelize-v6.6.5-orange.svg)](https://sequelize.org/)
+* [![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue.svg)](https://www.mysql.com/)
+* [![Insomnia](https://img.shields.io/badge/Insomnia-v2021.5.3-purple.svg)](https://insomnia.rest/)
+
+
 ## Installation
 
 1. Clone the repository to your local machine.
@@ -20,7 +30,6 @@ This is the back-end component of an e-commerce application. It provides the ser
 4. Set up the database.
 - Create a `.env` file in the root directory and provide your database credentials. 
 5. Seed the database with sample data.
-
 
 ## Usage
 
@@ -56,14 +65,13 @@ Please refer to the API documentation for detailed information about each route,
 
 In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources from the Internet, such as articles and videos. The starter code that served as a helpful foundation for this project was obtained from: https://github.com/coding-boot-camp/fantastic-umbrella 
 
-- https://www.npmjs.com/package/dotenv
-- https://www.mysql.com
-- https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts
-- https://stackoverflow.com/questions/74076456/running-a-mysql-seed-file-in-node-js
-- https://www.npmjs.com/package/inquirer
-- https://www.w3schools.com/nodejs/nodejs_mysql.asp
-- https://www.npmjs.com/package/figlet
 - https://www.w3schools.com/sql/
+- https://www.mysql.com
+- https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
+- https://www.npmjs.com/package/sequelize
+- https://sequelize.org/docs/v6/core-concepts/model-instances/
+- https://levelup.gitconnected.com/database-seeding-in-node-js-2b2eec5bfaa1
+- https://levelup.gitconnected.com/build-an-express-api-with-sequelize-cli-and-express-router-963b6e274561
 
 
 ## License
