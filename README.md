@@ -8,6 +8,7 @@ This is the back-end component of an e-commerce application. It provides the ser
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Routes](#api-routes)
+- [Credits](#credits)
 - [License](#license)
 - [Demo](#demo)
 
@@ -50,6 +51,19 @@ The following routes are available in the API:
 - `DELETE /api/tags/:id`: Delete a tag by ID.
 
 Please refer to the API documentation for detailed information about each route, including request and response formats.
+
+## Credits
+
+In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources from the Internet, such as articles and videos. The starter code that served as a helpful foundation for this project was obtained from: https://github.com/coding-boot-camp/fantastic-umbrella 
+
+- https://www.npmjs.com/package/dotenv
+- https://www.mysql.com
+- https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts
+- https://stackoverflow.com/questions/74076456/running-a-mysql-seed-file-in-node-js
+- https://www.npmjs.com/package/inquirer
+- https://www.w3schools.com/nodejs/nodejs_mysql.asp
+- https://www.npmjs.com/package/figlet
+- https://www.w3schools.com/sql/
 
 
 ## License
